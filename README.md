@@ -5,7 +5,7 @@
 
 I am passionate about the process of designing and developing innovative websites. I enjoy tackling challenges and expanding my skill set.
 
-#### Connect with Me
+## Connect with Me
 <a href="https://www.linkedin.com/in/sherlineau">
   <img src="/images/linkedin.png" width="30px">
 </a>
@@ -13,15 +13,15 @@ I am passionate about the process of designing and developing innovative website
   <img src="/images/instagram.png" width="30px">
 </a>
 
-### ✏️ I'm currently working on
+## ✏️ I'm currently working on
 - Frontend Development / CSS skills
 - Ticket Management App
 
-### 📘 I'm currently learning
+## 📘 I'm currently learning
 - TypeScript
 - Styled Components
 
-### 💻 Technical Skills
+## 💻 Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,cpp,js,py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,gatsby,dotnet,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,graphql)](https://skillicons.dev)
