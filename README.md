@@ -15,11 +15,11 @@ I am passionate about the process of designing and developing innovative website
 
 ## ✏️ I'm currently working on
 - Frontend Development / CSS skills
-- Ticket Management App
+- Fullstack Admin Dashboard
 
 ## 📘 I'm currently learning
 - TypeScript
-- Styled Components
+- Material UI
 
 ## 💻 Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,cpp,js,py)](https://skillicons.dev)
