@@ -1,5 +1,5 @@
-<!---<h3 align="center">Hi there, I'm <a href="https://www.sherlineau.com" target="_blank" rel="referrer">Sherline</a></h3>
---->
+<h3 align="center">Hi there, I'm <a href="https://www.sherlineau.com" target="_blank" rel="referrer">Sherline</a></h3>
+
 
 <h2 align="center">I'm a Full-Stack Web Developer 💻, Gamer 🎮, and Cat-Lover 😸</h2>
 
